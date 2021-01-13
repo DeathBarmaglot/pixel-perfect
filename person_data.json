@@ -1,0 +1,37 @@
+[
+    {
+  "Name":"Mike",
+  "City":"San Francisco",
+  "Country": "USA",
+  "Gender":"Male",
+  "Job":"CEO"
+    },
+    {
+  "Name":"Ivan",
+  "City":"Kyiv",
+  "Country": "Ukraine",
+  "Gender":"Male",
+  "Job":"Java Engineer"
+    },
+    {
+  "Name":"Sherry",
+  "City":"London",
+  "Country": "Great Britain",
+  "Gender":"Female",
+  "Job":"Marketing manager"
+    },
+    {
+  "Name":"Roberto",
+  "City":"Rio De Janeiro",
+  "Country": "Brazil",
+  "Gender":"Male",
+  "Job":"Office Support"
+    },
+  {
+  "Name":"Victoria",
+  "City":"Sydney",
+  "Country": "Australia",
+  "Gender":"Female",
+  "Job":"Designer"
+    }
+]
