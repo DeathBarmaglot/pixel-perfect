@@ -1,0 +1,27 @@
+$bodyWhite: #fff;
+$textWhite:rgb(255,255,255); 
+$sectionDark: rgb(33,35,46);
+$spanBlue: rgb(20,160,199);
+$gradGreen: rgb(100,148,19);
+$buttonGreen: rgb(105,153,0);
+$gradBlue: rgb(44,90,221);
+$textDark: rgb(44,47,60);
+$gradient: (linear-gradient(to right, $gradGreen, $gradBlue));
+$img: url(../img/m-h-day.jpg);
+$ffHead: "Source Sans Pro", sans-serif;
+$ffMain: "Hind", sans-serif;
+$font-weight: (
+    fw6: 600,
+    fw9: 900
+    );
+$fsH1: 71px;
+$fsSection: 42px;
+$fsP: 16px;
+$fsCardH2: 24px;
+$fsCardP: 16px;
+$fsBannerH: 30px;
+$fsBannerP: 16px;
+$fsLogo: 24px;
+$fsFooter: 11px;
+$fsButton: 18px;
+$fsa: 20px;

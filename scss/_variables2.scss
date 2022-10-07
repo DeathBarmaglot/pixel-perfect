@@ -1,0 +1,27 @@
+$bodyWhite: rgb(33,35,46);
+$textWhite:rgb(255,255,255); 
+$sectionDark: rgb(59,63,80);
+$spanBlue: rgb(255,78,51);
+$gradGreen: rgb(219,159,8);
+$buttonGreen: rgb(227,172,0);
+$gradBlue: rgb(149,49,80);
+$textDark: rgb(255,255,255);
+$gradient: (linear-gradient(to right, $gradGreen, $gradBlue));
+$img: url(../img/m-h-night.jpg);
+$ffHead: "Source Sans Pro", sans-serif;
+$ffMain: "Fresca", sans-serif;
+$font-weight: (
+    fw6: 600,
+    fw9: 900
+    );
+$fsH1: 71px;
+$fsSection: 42px;
+$fsP: 16px;
+$fsCardH2: 24px;
+$fsCardP: 16px;
+$fsBannerH: 30px;
+$fsBannerP: 16px;
+$fsLogo: 24px;
+$fsFooter: 11px;
+$fsButton: 18px;
+$fsa: 20px;
