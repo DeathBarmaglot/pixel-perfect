@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', 'Verdana', sans-serif;
+  }
+  
+  .btn-coral{
+    background-color: #FF7F50;
+    color: white;
+  }
+  
+  .btn-coral:hover{
+    background-color: #FF7F50;
+    box-shadow: 0 0 0 0.1rem #F08080;
+  }
+  
+  #pricing{
+    color: #111;
+
+  }
