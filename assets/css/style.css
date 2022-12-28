@@ -26,6 +26,11 @@ h6 {
   font-family: "Roboto", sans-serif;
 }
 
+
+h5{
+  color: #0057B7;
+}
+
 #topbar {
   background: #000000;
   height: 40px;
@@ -398,12 +403,14 @@ section {
 .section-title {
   text-align: center;
   padding-bottom: 30px;
+
 }
 
 .section-title h3 {
   margin: 15px 0 0 0;
   font-size: 32px;
   font-weight: 700;
+  
 }
 
 .section-title h3 span {
