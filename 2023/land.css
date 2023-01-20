@@ -1,0 +1,5190 @@
+/* Home page */
+
+position: relative;
+width: 1920px;
+height: 8566px;
+
+background: #FFFFFF;
+
+
+/* Logo */
+
+position: absolute;
+width: 36px;
+height: 17px;
+left: 165px;
+top: 31px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* They need your support the most */
+
+position: absolute;
+width: 469px;
+height: 34px;
+left: 4680px;
+top: 1087px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+
+color: #000000;
+
+
+
+/* Group 20 */
+
+position: absolute;
+width: 191px;
+height: 56px;
+left: 5566px;
+top: 1893px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 191px;
+height: 56px;
+left: 5566px;
+top: 1893px;
+
+background: #A4A0A0;
+
+
+/* See All */
+
+position: absolute;
+width: 81px;
+height: 29px;
+left: 5621px;
+top: 1907px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+
+
+/* Group 17 */
+
+position: absolute;
+width: 549px;
+height: 698px;
+left: 4074px;
+top: 1161px;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 549px;
+height: 343px;
+left: 4074px;
+top: 1162px;
+
+background: #797676;
+
+
+/* Rectangle 14 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 549px;
+height: 698px;
+left: 4074px;
+top: 1161px;
+
+border: 1px solid #000000;
+
+
+/* Frame */
+
+position: absolute;
+width: 79px;
+height: 78px;
+left: 4309px;
+top: 1295px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0.69%;
+right: 0.23%;
+top: 0.33%;
+bottom: 0.01%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 30.99%;
+right: 49.33%;
+top: 18.32%;
+bottom: 63.48%;
+
+background: #FFF1F1;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.69%;
+right: 0.23%;
+top: 0.33%;
+bottom: 0.01%;
+
+background: #FFF1F1;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+position: absolute;
+width: 501px;
+height: 48px;
+left: 4098px;
+top: 1517px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quam sociis elit sed id cursus. Nunc nunc, gravida elit feugiat mollis. Sed proin tempus, egestas mauris ipsum turpis malesuada. */
+
+position: absolute;
+width: 501px;
+height: 100px;
+left: 4098px;
+top: 1577px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #000000;
+
+
+
+/* Lorem */
+
+position: absolute;
+width: 59px;
+height: 25px;
+left: 4098px;
+top: 1751px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #000000;
+
+
+
+/* Lorem */
+
+position: absolute;
+width: 59px;
+height: 25px;
+left: 4535px;
+top: 1751px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #000000;
+
+
+
+/* 20255 $ */
+
+position: absolute;
+width: 69px;
+height: 25px;
+left: 4098px;
+top: 1804px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #000000;
+
+
+
+/* 20521255 $ */
+
+position: absolute;
+width: 96px;
+height: 25px;
+left: 4499px;
+top: 1805px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #000000;
+
+
+
+/* Group 16 */
+
+position: absolute;
+width: 501px;
+height: 15px;
+left: 4098px;
+top: 1781px;
+
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 501px;
+height: 15px;
+left: 4098px;
+top: 1781px;
+
+background: #D9D9D9;
+border-radius: 53px;
+
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 345px;
+height: 15px;
+left: 4098px;
+top: 1781px;
+
+background: #797676;
+border-radius: 53px;
+
+
+/* Group 18 */
+
+position: absolute;
+width: 549px;
+height: 698px;
+left: 4639px;
+top: 1162px;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 549px;
+height: 343px;
+left: 4639px;
+top: 1163px;
+
+background: #797676;
+
+
+/* Rectangle 14 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 549px;
+height: 698px;
+left: 4639px;
+top: 1162px;
+
+border: 1px solid #000000;
+
+
+/* Frame */
+
+position: absolute;
+width: 79px;
+height: 78px;
+left: 4874px;
+top: 1296px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0.69%;
+right: 0.23%;
+top: 0.33%;
+bottom: 0.01%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 30.99%;
+right: 49.33%;
+top: 18.32%;
+bottom: 63.48%;
+
+background: #FFF1F1;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.69%;
+right: 0.23%;
+top: 0.33%;
+bottom: 0.01%;
+
+background: #FFF1F1;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+position: absolute;
+width: 501px;
+height: 48px;
+left: 4663px;
+top: 1518px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quam sociis elit sed id cursus. Nunc nunc, gravida elit feugiat mollis. Sed proin tempus, egestas mauris ipsum turpis malesuada. */
+
+position: absolute;
+width: 501px;
+height: 100px;
+left: 4663px;
+top: 1578px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #000000;
+
+
+
+/* Lorem */
+
+position: absolute;
+width: 59px;
+height: 25px;
+left: 4663px;
+top: 1752px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #000000;
+
+
+
+/* Lorem */
+
+position: absolute;
+width: 59px;
+height: 25px;
+left: 5100px;
+top: 1752px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #000000;
+
+
+
+/* 20255 $ */
+
+position: absolute;
+width: 69px;
+height: 25px;
+left: 4663px;
+top: 1805px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #000000;
+
+
+
+/* 20521255 $ */
+
+position: absolute;
+width: 96px;
+height: 25px;
+left: 5064px;
+top: 1806px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #000000;
+
+
+
+/* Group 16 */
+
+position: absolute;
+width: 501px;
+height: 15px;
+left: 4663px;
+top: 1782px;
+
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 501px;
+height: 15px;
+left: 4663px;
+top: 1782px;
+
+background: #D9D9D9;
+border-radius: 53px;
+
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 345px;
+height: 15px;
+left: 4663px;
+top: 1782px;
+
+background: #797676;
+border-radius: 53px;
+
+
+/* Group 19 */
+
+position: absolute;
+width: 549px;
+height: 698px;
+left: 5205px;
+top: 1163px;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 549px;
+height: 343px;
+left: 5205px;
+top: 1164px;
+
+background: #797676;
+
+
+/* Rectangle 14 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 549px;
+height: 698px;
+left: 5205px;
+top: 1163px;
+
+border: 1px solid #000000;
+
+
+/* Frame */
+
+position: absolute;
+width: 79px;
+height: 78px;
+left: 5440px;
+top: 1297px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0.69%;
+right: 0.23%;
+top: 0.33%;
+bottom: 0.01%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 30.99%;
+right: 49.33%;
+top: 18.32%;
+bottom: 63.48%;
+
+background: #FFF1F1;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.69%;
+right: 0.23%;
+top: 0.33%;
+bottom: 0.01%;
+
+background: #FFF1F1;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+position: absolute;
+width: 501px;
+height: 48px;
+left: 5229px;
+top: 1519px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quam sociis elit sed id cursus. Nunc nunc, gravida elit feugiat mollis. Sed proin tempus, egestas mauris ipsum turpis malesuada. */
+
+position: absolute;
+width: 501px;
+height: 100px;
+left: 5229px;
+top: 1579px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #000000;
+
+
+
+/* Lorem */
+
+position: absolute;
+width: 59px;
+height: 25px;
+left: 5229px;
+top: 1753px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #000000;
+
+
+
+/* Lorem */
+
+position: absolute;
+width: 59px;
+height: 25px;
+left: 5666px;
+top: 1753px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #000000;
+
+
+
+/* 20255 $ */
+
+position: absolute;
+width: 69px;
+height: 25px;
+left: 5229px;
+top: 1806px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #000000;
+
+
+
+/* 20521255 $ */
+
+position: absolute;
+width: 96px;
+height: 25px;
+left: 5630px;
+top: 1807px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #000000;
+
+
+
+/* Group 16 */
+
+position: absolute;
+width: 501px;
+height: 15px;
+left: 5229px;
+top: 1783px;
+
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 501px;
+height: 15px;
+left: 5229px;
+top: 1783px;
+
+background: #D9D9D9;
+border-radius: 53px;
+
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 345px;
+height: 15px;
+left: 5229px;
+top: 1783px;
+
+background: #797676;
+border-radius: 53px;
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 85px;
+height: 85px;
+left: 5711px;
+top: 1468px;
+
+background: #C5C0C0;
+
+
+/* Vector 3 */
+
+position: absolute;
+width: 23px;
+height: 38px;
+left: 5745px;
+top: 1492px;
+
+border: 2px solid #000000;
+
+
+/* Frame 113 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px 15px;
+gap: 10px;
+
+position: absolute;
+width: 128px;
+height: 42px;
+left: 240px;
+top: 1084px;
+
+/* main/blue */
+background: #08359D;
+
+
+/* Projects */
+
+width: 98px;
+height: 22px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Active projects */
+
+position: absolute;
+width: 378px;
+height: 59px;
+left: 245px;
+top: 1166px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 59px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Donate Directly to the People Impacted By The War */
+
+position: absolute;
+width: 1440px;
+height: 29px;
+left: 240px;
+top: 1249px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 160%;
+/* identical to box height, or 29px */
+
+/* Text/light */
+color: #686161;
+
+
+
+/* header */
+
+position: absolute;
+width: 1920px;
+height: 114px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1920px;
+height: 114px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* header */
+
+position: absolute;
+width: 1440px;
+height: 66px;
+left: 240px;
+top: 24px;
+
+
+
+/* image 1 */
+
+position: absolute;
+width: 105px;
+height: 66px;
+left: 240px;
+top: 24px;
+
+background: url(image.png);
+
+
+/* Frame 236 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 32px;
+
+position: absolute;
+width: 680px;
+height: 59px;
+left: 1000px;
+top: 28px;
+
+
+
+/* Frame 48 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 519px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 4 */
+
+width: 519px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 46 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 519px;
+height: 22px;
+left: 0px;
+top: 0px;
+
+
+
+/* About Us */
+
+width: 85px;
+height: 22px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+/* text */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Projects */
+
+width: 75px;
+height: 22px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+/* text */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Podcast */
+
+width: 74px;
+height: 22px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+/* text */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Our team */
+
+width: 88px;
+height: 22px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+/* text */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Contact Us */
+
+width: 101px;
+height: 22px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+/* text */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Frame 135 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 18px 24px;
+gap: 10px;
+
+width: 129px;
+height: 59px;
+
+/* main/blue */
+background: #08359D;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Donate */
+
+width: 81px;
+height: 23px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+/* white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:arrow-forward */
+
+display: none;
+width: 24px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 1920px;
+height: 840px;
+left: 0px;
+top: 114px;
+
+background: url(image.png);
+
+
+/* Rectangle 42 */
+
+position: absolute;
+width: 1920px;
+height: 840px;
+left: 0px;
+top: 114px;
+
+background: rgba(0, 6, 18, 0.4);
+
+
+/* Telling the Story of Ukraine's War For Freedom */
+
+position: absolute;
+width: 969px;
+height: 136px;
+left: 476px;
+top: 358px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 68px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* The Borderlands Foundation is a Historical Center dedicated to capturing the stories of the heroes of Ukraine's war against Russia; while allowing you to support directly those who sacrificed the most to preserve our freedom. */
+
+position: absolute;
+width: 834px;
+height: 84px;
+left: 543px;
+top: 524px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 140%;
+/* or 28px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* War & StoryTelling in Ukraine */
+
+position: absolute;
+width: 736px;
+height: 59px;
+left: 600px;
+top: 3017px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 59px;
+/* identical to box height */
+
+/* main/blue */
+color: #08359D;
+
+
+
+/* Who we are? */
+
+position: absolute;
+width: 247px;
+height: 44px;
+left: 240px;
+top: 4086px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+/* Text/dark */
+color: #242424;
+
+
+
+/* Donate Directly to the People Impacted By The War */
+
+position: absolute;
+width: 707px;
+height: 88px;
+left: 240px;
+top: 5281px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+
+/* Text/dark */
+color: #242424;
+
+
+
+/* Creating the Next Generation of Ukrainian Leaders */
+
+position: absolute;
+width: 707px;
+height: 88px;
+left: 970px;
+top: 5885px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+
+/* Text/dark */
+color: #242424;
+
+
+
+/* Our team */
+
+position: absolute;
+width: 707px;
+height: 59px;
+left: 240px;
+top: 6535px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 59px;
+/* identical to box height */
+
+/* Text/dark */
+color: #242424;
+
+
+
+/* Frequently Asked Questions */
+
+position: absolute;
+width: 713px;
+height: 59px;
+left: 604px;
+top: 7041px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 59px;
+/* identical to box height */
+text-align: center;
+
+/* Text/dark */
+color: #242424;
+
+
+
+/* Honor & Support the Heroes of Ukraine */
+
+position: absolute;
+width: 738px;
+height: 44px;
+left: 591px;
+top: 4600px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+/* Text/dark */
+color: #242424;
+
+
+
+/* A Talk about War, StoryTelling & The Future History of Ukraine */
+
+position: absolute;
+width: 562px;
+height: 22px;
+left: 688px;
+top: 3100px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+/* Text/light */
+color: #686161;
+
+
+
+/* footer */
+
+position: absolute;
+width: 1920px;
+height: 274px;
+left: -1px;
+top: 8292px;
+
+
+
+/* Rectangle 22 */
+
+position: absolute;
+width: 1920px;
+height: 274px;
+left: -1px;
+bottom: 0px;
+
+background: #0A2665;
+
+
+/* Frame 98 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 56px;
+
+position: absolute;
+width: 369px;
+height: 136px;
+left: 691px;
+bottom: 68px;
+
+
+
+/* Frame 93 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 143px;
+height: 98px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* About Us */
+
+width: 84px;
+height: 22px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* How to Support */
+
+width: 143px;
+height: 22px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Need Help */
+
+width: 96px;
+height: 22px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 94 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 170px;
+height: 136px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Blog */
+
+width: 43px;
+height: 22px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Contact Us */
+
+width: 100px;
+height: 22px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Media & Resources */
+
+width: 170px;
+height: 22px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* FAQ */
+
+width: 39px;
+height: 22px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* team@borderlands.com.ua */
+
+position: absolute;
+width: 249px;
+height: 18px;
+left: 1431px;
+bottom: 185px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Frame 75 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+position: absolute;
+width: 164px;
+height: 32px;
+left: 1474px;
+bottom: 129px;
+
+
+
+/* Frame */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 3.84%;
+right: 4.49%;
+top: 3.84%;
+bottom: 4.49%;
+
+background: #FFFFFF;
+
+
+/* Frame */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 3.84%;
+right: 4.49%;
+top: 3.84%;
+bottom: 4.49%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 44.58%;
+right: 40.94%;
+top: 40.45%;
+bottom: 41.28%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 3.84%;
+right: 4.49%;
+top: 3.84%;
+bottom: 4.49%;
+
+background: #FFFFFF;
+
+
+/* Frame */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 3.84%;
+right: 4.49%;
+top: 3.84%;
+bottom: 4.49%;
+
+background: #FFFFFF;
+
+
+/* Frame */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 3.84%;
+right: 4.49%;
+top: 3.84%;
+bottom: 4.49%;
+
+background: #FFFFFF;
+
+
+/* Frame 101 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 18px 24px;
+gap: 10px;
+
+position: absolute;
+width: 184px;
+height: 59px;
+left: 766px;
+top: 627px;
+
+background: #FFD700;
+
+
+/* Donate now */
+
+width: 136px;
+height: 23px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:arrow-forward */
+
+display: none;
+width: 24px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 102 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 18px 24px;
+gap: 10px;
+
+position: absolute;
+width: 165px;
+height: 59px;
+left: 970px;
+top: 627px;
+
+/* main/blue */
+background: #08359D;
+
+
+/* Read more */
+
+width: 117px;
+height: 23px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 110 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 20px;
+gap: 10px;
+
+position: absolute;
+width: 467px;
+height: 489px;
+left: 240px;
+top: 1302px;
+
+border: 1px solid #CED6EA;
+
+
+/* Frame 264 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 427px;
+height: 449px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 103 */
+
+width: 427px;
+height: 241px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 60 */
+
+position: absolute;
+width: 427px;
+height: 241px;
+left: 0px;
+top: 0px;
+
+background: url(.jpg), #D9D9D9;
+
+
+/* play */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 190px;
+top: 96px;
+
+
+
+/* Ellipse 9 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #CED6EA;
+opacity: 0.62;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 28.57%;
+top: 29.46%;
+bottom: 30.36%;
+
+/* blue */
+background: #08359D;
+opacity: 0.7;
+
+
+/* Frame 263 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 427px;
+height: 184px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 262 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 427px;
+height: 101px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Help woman that lost her son at the war */
+
+width: 427px;
+height: 58px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Watch video */
+
+width: 115px;
+height: 23px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+display: flex;
+align-items: center;
+
+/* main/blue */
+color: #08359D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 105 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 18px 24px;
+gap: 10px;
+
+width: 427px;
+height: 59px;
+
+/* main/yellow */
+background: #FFD700;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Donate now */
+
+width: 136px;
+height: 23px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:arrow-forward */
+
+display: none;
+width: 24px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 60 */
+
+position: absolute;
+width: 710px;
+height: 419px;
+left: 970px;
+top: 5281px;
+
+background: url(.jpg), #D9D9D9;
+
+
+/* Снимок экрана 2023-01-03 в 15.43 1 */
+
+position: absolute;
+width: 710px;
+height: 419px;
+left: 240px;
+top: 5885px;
+
+background: url(Снимок экрана 2023-01-03 в 15.43.png);
+
+
+/* Frame 118 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 467px;
+height: 451px;
+left: 240px;
+top: 4684px;
+
+
+
+/* Rectangle 60 */
+
+width: 467px;
+height: 241px;
+
+background: url(stories-heroes-home-borderlands-foundation.jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 117 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 467px;
+height: 186px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 116 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 467px;
+height: 103px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* The Stories of the Heroes */
+
+width: 467px;
+height: 29px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Learn the History of the War through our Podcasts, Videos, & Articles */
+
+width: 467px;
+height: 54px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+display: flex;
+align-items: center;
+
+/* Text/light */
+color: #686161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 105 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 18px 24px;
+gap: 10px;
+
+width: 467px;
+height: 59px;
+
+/* main/yellow */
+background: #FFD700;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* listen to podcasts */
+
+width: 204px;
+height: 23px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:arrow-forward */
+
+display: none;
+width: 24px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 121 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 467px;
+height: 451px;
+left: 727px;
+top: 4684px;
+
+
+
+/* Rectangle 60 */
+
+width: 466px;
+height: 241px;
+
+background: url(support-heroes-war-home-borderlands-foundation.jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 120 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 467px;
+height: 186px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 119 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 467px;
+height: 103px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Support the Heroes of the War */
+
+width: 467px;
+height: 29px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Donate Directly to People who have been impacted by the War. */
+
+width: 467px;
+height: 54px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+display: flex;
+align-items: center;
+
+/* Text/light */
+color: #686161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 105 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 18px 24px;
+gap: 10px;
+
+width: 466px;
+height: 59px;
+
+/* main/yellow */
+background: #FFD700;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Donate now */
+
+width: 136px;
+height: 23px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:arrow-forward */
+
+display: none;
+width: 24px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 124 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 467px;
+height: 451px;
+left: 1213px;
+top: 4684px;
+
+
+
+/* Rectangle 60 */
+
+width: 467px;
+height: 241px;
+
+background: url(story-home-borderlands-foundation.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 123 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 467px;
+height: 186px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 122 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 467px;
+height: 103px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* The Borderlands Foundation Story */
+
+width: 467px;
+height: 29px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* The Borderlands Foundation is U.S. 501(c)(3) nonprofit. Here’s the Story of how we started. */
+
+width: 467px;
+height: 54px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+display: flex;
+align-items: center;
+
+/* Text/light */
+color: #686161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 105 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 18px 24px;
+gap: 10px;
+
+width: 467px;
+height: 59px;
+
+/* main/yellow */
+background: #FFD700;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* about us */
+
+width: 98px;
+height: 23px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:arrow-forward */
+
+display: none;
+width: 24px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 111 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 20px;
+gap: 10px;
+
+position: absolute;
+width: 467px;
+height: 489px;
+left: 727px;
+top: 1302px;
+
+border: 1px solid #CED6EA;
+
+
+/* Frame 267 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 427px;
+height: 449px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 104 */
+
+width: 427px;
+height: 241px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 60 */
+
+position: absolute;
+width: 427px;
+height: 241px;
+left: 0px;
+top: 0px;
+
+background: url(.jpg), #D9D9D9;
+
+
+/* play */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 190px;
+top: 96px;
+
+
+
+/* Ellipse 9 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #CED6EA;
+opacity: 0.62;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 28.57%;
+top: 29.46%;
+bottom: 30.36%;
+
+/* blue */
+background: #08359D;
+opacity: 0.7;
+
+
+/* Frame 266 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 427px;
+height: 184px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 265 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 427px;
+height: 101px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Help woman that lost her son at the war */
+
+width: 427px;
+height: 58px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Watch video */
+
+width: 115px;
+height: 23px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+display: flex;
+align-items: center;
+
+/* main/blue */
+color: #08359D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 105 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 18px 24px;
+gap: 10px;
+
+width: 427px;
+height: 59px;
+
+/* main/yellow */
+background: #FFD700;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Donate now */
+
+width: 136px;
+height: 23px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:arrow-forward */
+
+display: none;
+width: 24px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 112 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 20px;
+gap: 10px;
+
+position: absolute;
+width: 467px;
+height: 489px;
+left: 1214px;
+top: 1302px;
+
+border: 1px solid #CED6EA;
+
+
+/* Frame 270 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 427px;
+height: 449px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 105 */
+
+width: 427px;
+height: 241px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 60 */
+
+position: absolute;
+width: 427px;
+height: 241px;
+left: 0px;
+top: 0px;
+
+background: url(.jpg), #D9D9D9;
+
+
+/* play */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 190px;
+top: 96px;
+
+
+
+/* Ellipse 9 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #CED6EA;
+opacity: 0.62;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 28.57%;
+top: 29.46%;
+bottom: 30.36%;
+
+/* blue */
+background: #08359D;
+opacity: 0.7;
+
+
+/* Frame 269 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 427px;
+height: 184px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 268 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 427px;
+height: 101px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Help woman that lost her son at the war */
+
+width: 427px;
+height: 58px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Watch video */
+
+width: 115px;
+height: 23px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+display: flex;
+align-items: center;
+
+/* main/blue */
+color: #08359D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 105 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 18px 24px;
+gap: 10px;
+
+width: 427px;
+height: 59px;
+
+/* main/yellow */
+background: #FFD700;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Donate now */
+
+width: 136px;
+height: 23px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:arrow-forward */
+
+display: none;
+width: 24px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Our License */
+
+position: absolute;
+width: 224px;
+height: 44px;
+left: 240px;
+top: 2003px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+/* Text/dark */
+color: #242424;
+
+
+
+/* Frame 104 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px 15px;
+gap: 10px;
+
+position: absolute;
+width: 264px;
+height: 42px;
+left: 240px;
+top: 1921px;
+
+/* main/blue */
+background: #08359D;
+
+
+/* Why you can trust us */
+
+width: 234px;
+height: 22px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 114 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px 15px;
+gap: 10px;
+
+position: absolute;
+width: 128px;
+height: 42px;
+left: 240px;
+top: 4004px;
+
+/* main/blue */
+background: #08359D;
+
+
+/* about us */
+
+width: 98px;
+height: 22px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 134 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px 15px;
+gap: 10px;
+
+position: absolute;
+width: 90px;
+height: 44px;
+left: 240px;
+top: 6451px;
+
+/* main/blue */
+background: #08359D;
+
+
+/* Team */
+
+width: 60px;
+height: 24px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Blandit et in elementum vehicula tristique vulputate et. In neque tortor fames elementum velit non. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Blandit et in elementum vehicula tristique vulputate et. In neque tortor fames elementum velit non. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Blandit et in elementum vehicula tristique vulputate et. In neque tortor fames elementum velit non. */
+
+position: absolute;
+width: 832px;
+height: 162px;
+left: 240px;
+top: 2071px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+/* Text/light */
+color: #686161;
+
+
+
+/* Where does my money go? */
+
+position: absolute;
+width: 517px;
+height: 44px;
+left: 702px;
+top: 2522px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+/* Text/dark */
+color: #242424;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Blandit et in elementum vehicula tristique vulputate et. In neque tortor fames elementum velit non. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Blandit et in elementum vehicula tristique vulputate et. In neque tortor fames elementum velit non. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Blandit et in */
+
+position: absolute;
+width: 710px;
+height: 189px;
+left: 240px;
+top: 4154px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+/* Text/light */
+color: #686161;
+
+
+
+/* The history of this war that we are studying was built on the back of incredible courage, sacrifice, and hardship borne by the people of Ukraine. We have created a database of people who have been impacted by the war, and we have personally verified their stories. Therefore, you can donate directly to them and support them. */
+
+position: absolute;
+width: 710px;
+height: 135px;
+left: 240px;
+top: 5393px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+/* Text/light */
+color: #686161;
+
+
+
+/* The War will end. Ukraine must not waste the opportunity to use the shared sacrifice to create a unifying national identity. Based at Kyiv Mohyla Academy in central Kyiv, our center recruits student’s at Ukraine’s Top University, and we teach them to create the stories that will be the foundation of a future, powerful Ukrainian state. */
+
+position: absolute;
+width: 707px;
+height: 135px;
+left: 240px;
+top: 6618px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+/* Text/light */
+color: #686161;
+
+
+
+/* The War will end. Ukraine must not waste the opportunity to use the shared sacrifice to create a unifying national identity. Based at Kyiv Mohyla Academy in central Kyiv, our center recruits student’s at Ukraine’s Top University, and we teach them to create the stories that will be the foundation of a future, powerful Ukrainian state. */
+
+position: absolute;
+width: 710px;
+height: 135px;
+left: 970px;
+top: 5997px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+/* Text/light */
+color: #686161;
+
+
+
+/* Frame 103 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 18px 24px;
+gap: 10px;
+
+position: absolute;
+width: 184px;
+height: 59px;
+left: 240px;
+top: 2257px;
+
+/* main/yellow */
+background: #FFD700;
+
+
+/* Donate now */
+
+width: 136px;
+height: 23px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:arrow-forward */
+
+display: none;
+width: 24px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 115 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 18px 24px;
+gap: 10px;
+
+position: absolute;
+width: 165px;
+height: 59px;
+left: 240px;
+top: 4367px;
+
+/* main/yellow */
+background: #FFD700;
+
+
+/* read more */
+
+width: 117px;
+height: 23px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:arrow-forward */
+
+display: none;
+width: 24px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 132 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 18px 24px;
+gap: 10px;
+
+position: absolute;
+width: 184px;
+height: 59px;
+left: 240px;
+top: 5552px;
+
+/* main/yellow */
+background: #FFD700;
+
+
+/* donate now */
+
+width: 136px;
+height: 23px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:arrow-forward */
+
+display: none;
+width: 24px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 133 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 18px 24px;
+gap: 10px;
+
+position: absolute;
+width: 184px;
+height: 59px;
+left: 970px;
+top: 6156px;
+
+/* main/yellow */
+background: #FFD700;
+
+
+/* donate now */
+
+width: 136px;
+height: 23px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:arrow-forward */
+
+display: none;
+width: 24px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 137 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 18px 24px;
+gap: 10px;
+
+position: absolute;
+width: 175px;
+height: 59px;
+left: 240px;
+top: 6777px;
+
+/* main/yellow */
+background: #FFD700;
+
+
+/* Learn more */
+
+width: 127px;
+height: 23px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:arrow-forward */
+
+display: none;
+width: 24px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 136 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 18px 24px;
+gap: 10px;
+
+position: absolute;
+width: 184px;
+height: 59px;
+left: 1092px;
+top: 10765px;
+
+/* main/yellow */
+background: #FFD700;
+
+
+/* donate now */
+
+width: 136px;
+height: 23px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:arrow-forward */
+
+display: none;
+width: 24px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 10 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 348px;
+height: 463px;
+left: 1335px;
+top: 1919px;
+
+background: url(image.png);
+/* blue */
+border: 1px solid #08359D;
+border-radius: 2px;
+
+
+/* Снимок экрана 2023-01-01 в 19.04 1 */
+
+position: absolute;
+width: 1443.12px;
+height: 700px;
+left: 241px;
+top: 3162px;
+
+background: url(Снимок экрана 2023-01-01 в 19.04.png);
+
+
+/* Снимок экрана 2023-01-01 в 20.24 1 */
+
+position: absolute;
+width: 710px;
+height: 374px;
+left: 970px;
+top: 4014px;
+
+background: url(Снимок экрана 2023-01-01 в 20.24.png);
+
+
+/* Frame 128 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 30px;
+gap: 10px;
+
+position: absolute;
+width: 357px;
+height: 286.4px;
+left: 240px;
+top: 2590px;
+
+background: #FFFFFF;
+/* 1 */
+box-shadow: -1px 4px 20px rgba(121, 118, 118, 0.2);
+
+
+/* Frame 125 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 297px;
+height: 226.4px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 101 */
+
+width: 48px;
+height: 48px;
+
+transform: matrix(1, 0.03, -0.03, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 10.98%;
+right: 83.75%;
+top: 16.45%;
+bottom: 72.41%;
+
+/* main/yellow */
+background: #FFD700;
+/* yellow */
+border: 6px solid #FFD700;
+transform: matrix(-1, 0.02, -0.02, -1, 0, 0);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0.73%;
+right: 83.84%;
+top: 21.22%;
+bottom: 58.51%;
+
+/* yellow */
+border: 3px solid #FFD700;
+transform: matrix(-0.02, -1, 1, -0.02, 0, 0);
+
+
+/* Our License */
+
+width: 147px;
+height: 29px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Blandit et in elementum vehicula tristique vulputate et. In */
+
+width: 297px;
+height: 108px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+/* Text/light */
+color: #686161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 129 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 30px;
+gap: 10px;
+
+position: absolute;
+width: 357px;
+height: 285px;
+left: 781px;
+top: 2590px;
+
+background: #FFFFFF;
+/* 1 */
+box-shadow: -1px 4px 20px rgba(121, 118, 118, 0.2);
+
+
+/* Frame 126 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 297px;
+height: 225px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 102 */
+
+width: 44px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0.66%;
+right: 85.19%;
+top: 10.33%;
+bottom: 79.34%;
+
+/* main/blue */
+background: #08359D;
+/* blue */
+border: 2.5px solid #08359D;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 14.17%;
+right: 71.68%;
+top: 21.33%;
+bottom: 68.34%;
+
+/* main/yellow */
+background: #FFD700;
+/* yellow */
+border: 2.5px solid #FFD700;
+transform: matrix(-1, 0, 0, -1, 0, 0);
+
+
+/* Our License */
+
+width: 147px;
+height: 29px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Blandit et in elementum vehicula tristique vulputate et. In */
+
+width: 297px;
+height: 108px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+/* Text/light */
+color: #686161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 130 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 30px;
+gap: 10px;
+
+position: absolute;
+width: 357px;
+height: 285px;
+left: 1322px;
+top: 2590px;
+
+background: #FFFFFF;
+/* 1 */
+box-shadow: -1px 4px 20px rgba(121, 118, 118, 0.2);
+
+
+/* Frame 127 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 297px;
+height: 225px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 99 */
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 5.24%;
+right: 89.31%;
+top: 4.89%;
+bottom: 83.54%;
+
+/* main/blue */
+background: #08359D;
+/* blue */
+border: 2.5px solid #08359D;
+transform: matrix(1, -0.01, 0.01, 1, 0, 0);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 84.07%;
+top: 0.31%;
+bottom: 78.63%;
+
+/* blue */
+border: 3px solid #08359D;
+transform: matrix(0.01, 1, 1, -0.01, 0, 0);
+
+
+/* Our License */
+
+width: 147px;
+height: 29px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Blandit et in elementum vehicula tristique vulputate et. In */
+
+width: 297px;
+height: 108px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+/* Text/light */
+color: #686161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* play */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 1275px;
+top: 5441px;
+
+
+
+/* Ellipse 9 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #CED6EA;
+opacity: 0.62;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 28.57%;
+top: 29.46%;
+bottom: 30.36%;
+
+/* blue */
+background: #08359D;
+opacity: 0.7;
+
+
+/* image team */
+
+position: absolute;
+width: 518px;
+height: 457px;
+left: 1162px;
+top: 6444px;
+
+
+
+/* 500 + members */
+
+position: absolute;
+width: 220px;
+height: 92px;
+left: 1165px;
+top: 6737px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 150%;
+/* or 72px */
+
+/* main/blue */
+color: #08359D;
+
+
+
+/* Rectangle 91 */
+
+position: absolute;
+width: 273px;
+height: 237px;
+left: 1397px;
+top: 6664px;
+
+background: url(.jpg), #D9D9D9;
+
+
+/* Rectangle 92 */
+
+position: absolute;
+width: 278px;
+height: 237px;
+left: 1162px;
+top: 6461px;
+
+background: url(.jpg), #D9D9D9;
+
+
+/* Ellipse 15 */
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 1470px;
+top: 6444px;
+
+background: #F5F8FF;
+
+
+/* 24 h support */
+
+position: absolute;
+width: 220px;
+height: 92px;
+left: 1460px;
+top: 6498px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 150%;
+/* or 72px */
+text-align: center;
+
+/* main/blue */
+color: #08359D;
+
+
+
+/* Ellipse 18 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 1222px;
+top: 6853px;
+
+background: url(.png);
+border: 1.5px solid #CED6EA;
+
+
+/* Ellipse 17 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 1192px;
+top: 6853px;
+
+background: url(.png);
+border: 1.5px solid #CED6EA;
+
+
+/* Ellipse 16 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 1162px;
+top: 6853px;
+
+background: url(.png);
+border: 1.5px solid #CED6EA;
+
+
+/* Frame 228 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 1440px;
+height: 73px;
+left: 240px;
+top: 7153px;
+
+
+
+/* Frame 227 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 74px;
+
+width: 1440px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Blandit et in ? */
+
+width: 1318px;
+height: 36px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* mdi:chevron-down */
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 35.75%;
+bottom: 33.33%;
+
+background: #08359D;
+
+
+/* Rectangle 94 */
+
+width: 1440px;
+height: 1px;
+
+background: #CED6EA;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 232 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 1440px;
+height: 73px;
+left: 240px;
+top: 7541px;
+
+
+
+/* Frame 227 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 74px;
+
+width: 1440px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Blandit et in ? */
+
+width: 1318px;
+height: 36px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* mdi:chevron-down */
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 35.75%;
+bottom: 33.33%;
+
+background: #08359D;
+
+
+/* Rectangle 94 */
+
+width: 1440px;
+height: 1px;
+
+background: #CED6EA;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 229 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 1440px;
+height: 73px;
+left: 240px;
+top: 7250px;
+
+
+
+/* Frame 227 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 74px;
+
+width: 1440px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Blandit et in ? */
+
+width: 1318px;
+height: 36px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* mdi:chevron-down */
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 35.75%;
+bottom: 33.33%;
+
+background: #08359D;
+
+
+/* Rectangle 94 */
+
+width: 1440px;
+height: 1px;
+
+background: #CED6EA;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 233 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 1440px;
+height: 73px;
+left: 240px;
+top: 7638px;
+
+
+
+/* Frame 227 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 74px;
+
+width: 1440px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Blandit et in ? */
+
+width: 1318px;
+height: 36px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* mdi:chevron-down */
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 35.75%;
+bottom: 33.33%;
+
+background: #08359D;
+
+
+/* Rectangle 94 */
+
+width: 1440px;
+height: 1px;
+
+background: #CED6EA;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 230 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 1440px;
+height: 73px;
+left: 240px;
+top: 7347px;
+
+
+
+/* Frame 227 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 74px;
+
+width: 1440px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Blandit et in ? */
+
+width: 1318px;
+height: 36px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* mdi:chevron-down */
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 35.75%;
+bottom: 33.33%;
+
+background: #08359D;
+
+
+/* Rectangle 94 */
+
+width: 1440px;
+height: 1px;
+
+background: #CED6EA;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 234 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 1440px;
+height: 73px;
+left: 240px;
+top: 7735px;
+
+
+
+/* Frame 227 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 74px;
+
+width: 1440px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Blandit et in ? */
+
+width: 1318px;
+height: 36px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* mdi:chevron-down */
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 35.75%;
+bottom: 33.33%;
+
+background: #08359D;
+
+
+/* Rectangle 94 */
+
+width: 1440px;
+height: 1px;
+
+background: #CED6EA;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 231 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 1440px;
+height: 73px;
+left: 240px;
+top: 7444px;
+
+
+
+/* Frame 227 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 74px;
+
+width: 1440px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Blandit et in ? */
+
+width: 1318px;
+height: 36px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* mdi:chevron-down */
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 35.75%;
+bottom: 33.33%;
+
+background: #08359D;
+
+
+/* Rectangle 94 */
+
+width: 1440px;
+height: 1px;
+
+background: #CED6EA;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 235 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 1440px;
+height: 73px;
+left: 240px;
+top: 7832px;
+
+
+
+/* Frame 227 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 74px;
+
+width: 1440px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Blandit et in ? */
+
+width: 1318px;
+height: 36px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+/* Text/dark */
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* mdi:chevron-down */
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 35.75%;
+bottom: 33.33%;
+
+background: #08359D;
+
+
+/* Rectangle 94 */
+
+width: 1440px;
+height: 1px;
+
+background: #CED6EA;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 226 */
+
+position: absolute;
+width: 1920px;
+height: 247px;
+left: 0px;
+top: 8045px;
+
+background: #F1F4F9;
+
+
+/* Subscribe to our news */
+
+position: absolute;
+width: 467px;
+height: 44px;
+left: 727px;
+top: 60px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+text-align: center;
+
+/* Text/dark */
+color: #242424;
+
+
+
+/* Rectangle 93 */
+
+position: absolute;
+width: 710px;
+height: 59px;
+left: 605px;
+top: 128px;
+
+background: #FFFFFF;
+
+
+/* Frame 101 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 18px 24px;
+gap: 10px;
+
+position: absolute;
+width: 184px;
+height: 59px;
+left: 1131px;
+top: 128px;
+
+background: #FFD700;
+
+
+/* Donate now */
+
+width: 136px;
+height: 23px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #242424;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* material-symbols:arrow-forward */
+
+display: none;
+width: 24px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Enter your email */
+
+position: absolute;
+width: 150px;
+height: 23px;
+left: 629px;
+top: 146px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+display: flex;
+align-items: center;
+
+/* Text/light */
+color: #686161;
+
+
+
+/* Frame 272 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 276px;
+height: 191px;
+left: 255px;
+top: 8324px;
+
+
+
+/* logo-light-borderland-foundation 1 */
+
+width: 212px;
+height: 133px;
+
+background: url(logo-light-borderland-foundation.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* © 2022 Borderlands */
+
+width: 276px;
+height: 34px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;

@@ -135,7 +135,7 @@ h6 {
   font-size: 17px;
   font-weight: 500;
   text-decoration: none;
-  color: #525252;
+
   fill: #525252;
   padding-left: 14px;
   padding-right: 14px;
@@ -150,7 +150,6 @@ h6 {
   left: 0;
   background-color: #0057B7;
   visibility: hidden;
-  width: 0px;
   transition: all 0.3s ease-in-out 0s;
 }
 
@@ -221,7 +220,7 @@ h6 {
 
 .mobile-nav .drop-down > a:after {
   content: "\ea99";
-  font-family: IcoFont;
+  font-family: IcoFont, sans-serif;
   padding-left: 10px;
   position: absolute;
   right: 15px;
@@ -860,7 +859,7 @@ section {
 }
 
 .portfolio #portfolio-flters {
-  padding: 0;
+
   margin: 0 auto 15px auto;
   list-style: none;
   text-align: center;
@@ -907,7 +906,7 @@ section {
 
 .portfolio .portfolio-item .portfolio-info h4 {
   font-size: 18px;
-  color: #fff;
+
   font-weight: 600;
   color: #222222;
 }
@@ -979,7 +978,6 @@ section {
 .faq .faq-list a {
   display: block;
   position: relative;
-  font-family: #0057B7;
   font-size: 18px;
   font-weight: 500;
 }
@@ -1192,7 +1190,7 @@ section {
 
 .contact .php-email-form input,
 .contact .php-email-form textarea {
-  border-radius: 0;
+  
   box-shadow: none;
   font-size: 14px;
   border-radius: 4px;
@@ -1212,7 +1210,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #fff;
+
   padding: 12px 35px;
   transition: 0.4s;
   background: #0057B7;
@@ -1296,7 +1294,6 @@ section {
   right: 0;
   bottom: 0;
   border: 0;
-  background: none;
   font-size: 16px;
   padding: 0 20px;
   background: #0057B7;
@@ -1419,8 +1416,6 @@ section {
   text-decoration: none;
   font-family: "Montserrat", Sans-serif;
   font-weight: 700;
-  text-decoration: none;
-  background-color: #0057B7;
   box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 50%);  text-transform: uppercase;
   font-size: 14px;
   letter-spacing: 1px;
