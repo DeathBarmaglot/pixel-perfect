@@ -121,9 +121,9 @@ a:hover {
   width: 960px;
   text-align: center;
 }
-
-#heading a {
-  margin: 20px;
+#heading > div.heading {
+  margin-top: 60px;
+  margin-bottom: 20px;
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -140,18 +140,13 @@ a:hover {
 }
 
 #heading {
-  margin: 20px;
+  margin-left: 240px;
   flex-direction: column;
 }
 
-#heading p {
-  margin-left: 20px;
-
-}
-
-
 #heading h2 {
-  margin: 20px;
+  margin-top: 40px;
+  margin-bottom: 30px;
   font-style: normal;
   font-weight: 700;
   font-size: 48px;
@@ -212,4 +207,130 @@ a:hover {
   background: #08359d;
   color: #fff;
   margin: 10px;
+}
+.images {
+  display: flex;
+}
+
+.heading__01 {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 10px 15px;
+  gap: 10px;
+
+  position: absolute;
+  width: 128px;
+  height: 42px;
+  left: 240px;
+  top: 1084px;
+}
+.frame__01 {
+  box-sizing: border-box;
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 20px;
+  gap: 10px;
+
+  position: absolute;
+  width: 467px;
+  height: 489px;
+  left: 240px;
+  top: 1402px;
+
+  border: 1px solid #ced6ea;
+}
+.frame__02 {
+  box-sizing: border-box;
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 20px;
+  gap: 10px;
+
+  position: absolute;
+  width: 467px;
+  height: 489px;
+  left: 727px;
+  top: 1402px;
+
+  border: 1px solid #ced6ea;
+}
+
+.frame__03 {
+  box-sizing: border-box;
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 20px;
+  gap: 10px;
+
+  position: absolute;
+  width: 467px;
+  height: 489px;
+  left: 1214px;
+  top: 1402px;
+
+  border: 1px solid #ced6ea;
+}
+
+.under {
+  position: absolute;
+  width: 427px;
+  height: 58px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  top: 280px;
+  color: #000000;
+}
+
+.watch {
+  width: 115px;
+  height: 23px;
+  position: absolute;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 130%;
+  /* or 23px */
+  display: flex;
+  align-items: center;
+  top: 370px;
+  /* main/blue */
+  color: #08359d;
+}
+
+.donate {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 18px 24px;
+  gap: 10px;
+
+  width: 427px;
+  height: 59px;
+
+  /* main/yellow */
+  background: #ffd700;
+
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 130%;
+  /* or 23px */
+  text-align: center;
+  text-transform: uppercase;
+  top: 420px;
+  /* Text/dark */
+  color: #242424;
 }
